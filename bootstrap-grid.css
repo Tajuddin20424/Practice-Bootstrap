@@ -1,0 +1,27 @@
+.panel {
+    padding: 30px;
+    margin: 10px 0;
+    /* color: pink; */
+  }
+  /* first */
+  .panel-blue {
+    background-color: pink;
+  }
+  /* second */
+  .panel-purple {
+    background-color: #ff0073;
+  }
+  /* third */
+  .panel-kyblue {
+    background-color: skyblue;
+  }
+  /* fourth */
+  .panel-green{
+    background-color: rgba(0, 128, 0, 0.425);
+  }
+  .panel-brown {
+    background-color: rgb(165, 91, 42);
+  }
+
+
+  
